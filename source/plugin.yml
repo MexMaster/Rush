@@ -1,0 +1,10 @@
+name: Rush
+version: 1.0
+main: epicapple.rush.RushPlugin
+description: Rush for TryxMC
+author: EpicApple
+commands:
+  leave:
+    usage: Ein Fehler ist aufgetreten
+  hub:
+    usage: Ein Fehler ist aufgetreten
